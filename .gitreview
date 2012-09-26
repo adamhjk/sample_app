@@ -1,0 +1,5 @@
+[gerrit]
+host=review.opscode.us
+port=29418
+project=sample_app
+defaultbranch=master
